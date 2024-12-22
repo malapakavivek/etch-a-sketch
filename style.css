@@ -16,3 +16,9 @@ h1{
     outline: 1px solid black;  
 }
 
+.buttons{
+    margin-top: 30px;
+    display: flex;
+    gap :10px;
+    justify-content: center;
+}
