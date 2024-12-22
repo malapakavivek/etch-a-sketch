@@ -37,7 +37,7 @@ clearButton.addEventListener("click",clear,false)
 //background color changes to random rainbow colors when clicked useRainbow 
 
 const rainbowButton = document.querySelector(".rainbow")
-let colors = {0:"violet",1:"indigo",2:"blue",3:"green",4:"yellow",5:"orange",6:"red"}
+let colors = {0:"red",1:"blue",2:"green",3:"yellow",4:"black",5:"pink",6:"violet"}
 
 function ClickRainbow(){
     function Rainbow(e){
